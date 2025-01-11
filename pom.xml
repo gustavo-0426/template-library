@@ -10,6 +10,7 @@
     <description>Demo project for Library</description>
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>21</java.version>
     </properties>
 
